@@ -28,7 +28,7 @@ This project aims at exploring structured dataset using spark SQL,understanding 
 ## [Exploratory Data Analysis(EDA)](https://github.com/ThSrAd/Distributed-Computing-with-Spark-SQL)
 This project aims at exploring analytical queries using Hive over large datasets. MovieLens data set was compiled by the GroupLens Research Project at the University of Minnesota data set consisting of 100,000 ratings (1-5) from 943 users upon 1682 movies was used for analysis.
 
-## Questions answered </br>
+#### Questions answered </br>
 • Top 10 viewed movies</br>
 • Top 20 rated movies having at least 40 views</br>
 • Top 3 genre recommendations for each user</br>
