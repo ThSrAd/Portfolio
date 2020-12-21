@@ -5,3 +5,12 @@
 Appcafe is a company that builds Android and IOS mobile apps.The apps are made available on Google Play and App store.All the apps built by the company are free to download and install.The main source of revenue is from the in-app ads.The revenue generated is in direct correlation to the number of users who use our app.My goal for this project was to analyze data and help the developers understand what type of apps are likely to attract more users.
 
 <hr>
+
+
+#### [Database-Design-and-Modelling](https://github.com/ThSrAd/Database-Design-and-Modelling)
+Middle Earth is a amusement park located in the Dallas, TX area. It opened its doors in 1954 where it’s customers enjoyed a few different rides and food and beverage stations. It began as a small park with very few employees, and was only opened on the weekends. This made it possible for a single person to keep handwritten records of the parks records.
+
+Over the years the park has performed well and now the owner would like to expand his theme park. He will be open seven days a week, create additional rides, and have more employees than ever before. With these changes to his business, the owner needs a better and more efficient way of keeping records and generating reports than the handwritten way it has been done until now. The owner is in need of a database to maintain the records of his expanded park.
+
+The database will be used to track:
+• customer information • Ticket sales • Revenue from restaurants on the park premises • maintenance of rides • Number of footfalls/people visiting in a given period
