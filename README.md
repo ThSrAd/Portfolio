@@ -6,7 +6,6 @@ Appcafe is a company that builds Android and IOS mobile apps.The apps are made a
 
 <hr>
 
-
 #### [Database-Design-and-Modelling](https://github.com/ThSrAd/Database-Design-and-Modelling)
 Middle Earth is a amusement park located in the Dallas, TX area. It opened its doors in 1954 where it’s customers enjoyed a few different rides and food and beverage stations. It began as a small park with very few employees, and was only opened on the weekends. This made it possible for a single person to keep handwritten records of the parks records.
 
@@ -14,3 +13,12 @@ Over the years the park has performed well and now the owner would like to expan
 
 The database will be used to track:
 • customer information • Ticket sales • Revenue from restaurants on the park premises • maintenance of rides • Number of footfalls/people visiting in a given period
+
+<hr>
+
+#### [Distributed-Computing-with-Spark-SQL](https://github.com/ThSrAd/Distributed-Computing-with-Spark-SQL)
+This project aims at exploring structured dataset using spark SQL,understanding Spark Internals to increase query performance by caching data, using Spark UI to identify bottlenecks in performance. SQL performance aand tuning Spark configurations[Executors,Core]. I have used Databricks community edition and a dataset from San Francisco Fire Department for analysis.
+
+
+<hr>
+
