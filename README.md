@@ -38,6 +38,10 @@ This project aims at exploring analytical queries using Hive over large datasets
 
 <hr>
 
+## [ 5. Sentiment-Analysis-on-Product-Reviews](https://github.com/ThSrAd/Sentiment-Analysis-on-Product-Reviews)
+
+Aim of this project is to perform sentiment analysis on large Yelp datasets of customer reviews from on kaggle using MapReduce and the Hadoop Distributed System.This dataset is a subset of Yelp's businesses, reviews, and user data.Originally put together for the Yelp Dataset Challenge to conduct research or analysis on Yelp's data and share their discoveries.In total, there are :5,200,000 user reviews,Information on 174,000 businesses,the data spans 11 metropolitan areas.
+
 
 
 
